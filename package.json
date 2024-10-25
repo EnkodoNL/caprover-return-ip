@@ -2,6 +2,10 @@
   "name": "caprover-return-ip",
   "version": "1.0.0",
   "description": "Simple app that returns the user's IP address",
+  "author": {
+    "name": "Sebastiaan Pasma",
+    "email": "sebastiaan@enkodo.nl"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
